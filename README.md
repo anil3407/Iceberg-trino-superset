@@ -13,7 +13,6 @@ This repository provides a comprehensive environment to learn and practice moder
 - **MinIO**: Learn about object storage and how it integrates with modern data pipelines, serving as your S3-compatible storage layer.
 - **PostgreSQL**: Use a relational database for metadata management and storing structured data.
 
-![ED91D8F6-A9E6-4B99-89DA-1849864E5C39](https://github.com/user-attachments/assets/116bae69-e15b-47a8-8003-417d111cf6c9)
 
 ---
 
@@ -92,8 +91,8 @@ This repository provides a comprehensive environment to learn and practice moder
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/username/dataengineering-tech-stack.git
-   cd dataengineering-tech-stack
+   git clone https://github.com/username/Iceberg-trino-superset.git
+   cd Iceberg-trino-superset
    ```
 2. **Set Environment Variables**
   - Fill in your configurations in .env/airflow.env, .env/minio.env, .env/postgres.env, etc.
